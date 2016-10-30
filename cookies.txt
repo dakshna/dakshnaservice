@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+msdn.microsoft.com	TRUE	/	FALSE	1999999999	AmbientContext	%7b%22layout.limit_max_width%22%3afalse%2c%22AmbientContextId%22%3a%22482F56A5-1959-48D9-98B2-D614640E7BC4%22%2c%22display.use_large_font%22%3afalse%2c%22insight.perf_timing%22%3atrue%2c%22AmbientContextDownstream%22%3a%7b%7d%2c%22display.high_contrast%22%3afalse%2c%22insight.use_wedcs_vnext%22%3atrue%7d
+msdn.microsoft.com	TRUE	/	FALSE	1999999999	__RequestVerificationToken	WQyy9is_PvE1T8YwIHl1zFrfO6IrmugCG2Jp4TAOyyRrmQE_yqfF0-8y17VCJzu04_Wyc4iqNSlZ7_9l2Kjk2b4uElo1
+.msdn.microsoft.com	TRUE	/	FALSE	1999999999	AuthenticatedUser	eyJJc0F1dGhlbnRpY2F0ZWQiOiJGYWxzZSJ9
+msdn.microsoft.com	TRUE	/	FALSE	1999999999	TocHashCookie	aa906039(n)/bg125588(n)/bg126501(VS.85,n)/bg126508(VS.85,n)/bb762759(VS.85,n)/bb762798(VS.85,n)/bb762800(VS.85,n)/bb762885(VS.85,n)/na/
+
